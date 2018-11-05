@@ -1,2 +1,0 @@
-# JDFinance
-learn to vue
